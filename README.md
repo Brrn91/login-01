@@ -18,6 +18,7 @@ Este projeto foi elaborado como forma de **treinar meus conhecimentos em HTML e 
 - **CSS3** – Estilização visual e responsividade  
 - **Flexbox / Grid** – Para organização e alinhamento dos elementos  
 - Fonte personalizada via **Google Fonts** (quando aplicável)  
+- **Ícones importados** – Ícones importados externamente
 
 ---
 
